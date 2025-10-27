@@ -252,7 +252,7 @@ function InvitationSection() {
                                 data-editable="true"
                                 className="fw-bold font-questrial mt-4"
                             >
-                                Chủ Nhật, ngày 21 tháng 11 năm 2025
+                                Thứ Sáu, ngày 21 tháng 11 năm 2025
                             </h4>
                             <h5
                                 id="ix47g8"
