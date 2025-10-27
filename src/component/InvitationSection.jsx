@@ -87,7 +87,7 @@ function InvitationSection() {
                                     data-editable="true"
                                     className="font-questrial"
                                 >
-                                    Ngô Thị Huỳnh Mai
+                                    Lê Thị Huỳnh Mai
                                 </h5>
                             </div>
                             <div
